@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Thanks for a great CryptoParty!
 date: 2014-11-24 21:30UTC
 tags:
 category: homepage
