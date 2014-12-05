@@ -1,0 +1,19 @@
+Feedback for CryptoParty 23rd
+--------------
+
+"If you only do one thing do X"
+
+Registration was scary - definitions were too hazy
+"totally new to personal privacy", "basic encryption competency", and "proficient cryptographer" 
+
+Upload decks to website
+
+More practical demo using attendee's phones
+
+PGP session usable before they leave + keysigning
+
+Linux tutorials / offer to help
+
+Terminology needed to be explained more
+
+Polling attendees
