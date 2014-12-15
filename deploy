@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "Deploying TorontoCrypto"
+
+BUILD_FOLDER=build
+
+mkdir $BUILD_FOLDER
+bundle exec jekyll build --destination $BUILD_FOLDER
+cd $BUILD_FOLDER
+bitballoon deploy
+cd ..
+
+echo "> Deploy completed!"
