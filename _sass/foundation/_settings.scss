@@ -116,7 +116,7 @@ $font-family-serif: freight-text-pro, Cambria, "Times New Roman", Times, serif;
 // $black       : #000000;
 
 // We use these as default colors throughout
-// $primary-color: #008CBA;
+$primary-color: #33bbff;
 // $secondary-color: #e7e7e7;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
@@ -1364,7 +1364,7 @@ $font-family-serif: freight-text-pro, Cambria, "Times New Roman", Times, serif;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Background color for the top bar
-$topbar-bg-color: rgba(0, 0, 0, 0.2);
+$topbar-bg-color: rgba(0, 0, 0, 0.75);
 // $topbar-bg: $topbar-bg-color;
 
 // Height and margin
@@ -1376,7 +1376,7 @@ $topbar-height: rem-calc(64);
 // $topbar-title-font-size: rem-calc(17);
 
 // Style the top bar dropdown elements
-// $topbar-dropdown-bg: $oil;
+$topbar-dropdown-bg: none;
 // $topbar-dropdown-link-color: $white;
 // $topbar-dropdown-link-bg: $oil;
 // $topbar-dropdown-link-bg-hover: $oil;
@@ -1391,9 +1391,9 @@ $topbar-height: rem-calc(64);
 // $topbar-link-color-active: $white;
 // $topbar-link-color-active-hover: $white;
 // $topbar-link-weight: $font-weight-normal;
-// $topbar-link-font-size: rem-calc(13);
+$topbar-link-font-size: rem-calc(20);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
-// $topbar-link-bg: $topbar-bg;
+$topbar-link-bg: none;
 // $topbar-link-bg-color-hover: $charcoal;
 // $topbar-link-bg-hover: $oil;
 // $topbar-link-bg-active: $primary-color;

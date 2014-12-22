@@ -12,8 +12,15 @@ $header-font-weight-bold: 800;
 $header-font-weight-normal: 200;
 
 
+$bright-blue: #008cba;
+
+
 
 // generics
+
+body.f-topbar-fixed {
+    padding-top: 0;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $font-family-sans-serif;
@@ -25,7 +32,7 @@ ul, ol {
 }
 
 a {
-    color: #008cba;
+    color: $primary-color;
     font-family: $font-family-sans-serif;
     text-decoration: none;
 }
@@ -35,13 +42,13 @@ a {
 // layout
 
 .top-bar {
-    padding: 0 50px;
+    background: none;
 }
 
 .logo {
     height: 64px;
     margin-right: 4px;
-    padding: 8px;
+    padding: 8px $column-gutter / 2;
 }
 
 .content section {
@@ -67,18 +74,14 @@ footer h3 {
     margin-bottom: 20px;
 }
 
-footer li {
-    padding-left: 40px;
-}
-
-footer li:first-child {
-    padding-left: 0;
-}
-
 footer li a {
     color: #333;
     font-size: 1rem;
     font-weight: $header-font-weight-bold;
+}
+
+.reveal-modal, .reveal-modal-bg {
+    position: fixed;
 }
 
 
@@ -87,7 +90,9 @@ footer li a {
 
 #headline {
     padding: 170px 0 120px;
-    background: url('/img/DSC00397.jpg') 50% 50%;
+    background:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%),
+        url('/img/banner-laptop.jpg') repeat 50% 50%;
     background-size: cover;
     color: #fff;
     text-align: center;
@@ -99,15 +104,24 @@ footer li a {
     margin: 0;
 }
 
-#headline p {
-    margin: 0;
-    font-family: $font-family-sans-serif;
+#headline h1 strong {
+    font-weight: $header-font-weight-bold;
 }
 
 #headline h4 {
     margin: 5rem 0 0;
 }
 
-#headline h1 strong {
-    font-weight: $header-font-weight-bold;
+#headline p {
+    margin: 0;
+    font-family: $font-family-sans-serif;
+}
+
+#headline a {
+    background: rgba(0, 0, 0, 0.75);
+    padding: 0 0.25rem;
+}
+
+#headline a:hover {
+    color: lighten($primary-color, 25%);
 }
