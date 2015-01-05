@@ -14,14 +14,10 @@ turned out!
 
 The following topics were covered:
 
-* Big Data: Online Marketing and how it tracks you
-  [Slide Presentation](files/Toronto_Cryptoparty_Big_Data.pdf)
-* Using the Tor Browser Bundle
-  [Slide Presentation](files/Toronto_Cryptoparty_Tor_Browser.pdf)
-* Mobile Security and Privacy
-  [Slide Presentation](files/Toronto_Cryptoparty_Mobile_Privacy.pdf)
-* TLS: Today's Lite Security
-  [Slide Presentation](files/Toronto_Cryptoparty_TLS_TodaysLiteSecurity.pdf)
+* Big Data: Online Marketing and how it tracks you [Slide Presentation](../files/Toronto_Cryptoparty_Big_Data.pdf)
+* Using the Tor Browser Bundle [Slide Presentation](../files/Toronto_Cryptoparty_Tor_Browser.pdf)
+* Mobile Security and Privacy [Slide Presentation](../files/Toronto_Cryptoparty_Mobile_Privacy.pdf)
+* TLS: Today's Lite Security [Slide Presentation](../files/Toronto_Cryptoparty_TLS_TodaysLiteSecurity.pdf)
 
 Thanks to everyone who made it out. We absolutely
 appreciate all the feedback you gave and if
