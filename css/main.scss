@@ -35,54 +35,6 @@ a {
     padding: 8px $column-gutter / 2;
 }
 
-.content section {
-    padding: 50px 0;
-    border-bottom: 1px solid #ccc;
-    font-family: $font-family-serif;
-}
-
-.content section h2 {
-    font-weight: bold;
-}
-
-.content section h2 a {
-    color: $body-font-color;
-}
-
-article {
-    margin-bottom: 3rem;
-}
-
-article header {
-    margin-bottom: 1.5rem;
-}
-
-footer {
-    padding: 100px 0;
-    font-size: 90%;
-    text-align: center;
-}
-
-footer h3 {
-    color: #777;
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-bottom: 20px;
-}
-
-footer li a {
-    color: #333;
-    font-size: 1rem;
-}
-
-.reveal-modal, .reveal-modal-bg {
-    position: fixed;
-}
-
-
-
-// specific content
-
 #headline {
     padding-top: 170px;
     min-height: 560px;
@@ -117,4 +69,52 @@ footer li a {
 
 #headline a:hover {
     color: lighten($primary-color, 25%);
+}
+
+.content section {
+    padding: 50px 0;
+    border-bottom: 1px solid #ccc;
+    font-family: $font-family-serif;
+}
+
+.content section h2 {
+    font-weight: bold;
+}
+
+.content section h2 a {
+    color: $body-font-color;
+}
+
+.twitter {
+    margin-top: .4rem;
+}
+
+article {
+    margin-bottom: 3rem;
+}
+
+article header {
+    margin-bottom: 1.5rem;
+}
+
+footer {
+    padding: 100px 0;
+    font-size: 90%;
+    text-align: center;
+}
+
+footer h3 {
+    color: #777;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+footer li a {
+    color: #333;
+    font-size: 1rem;
+}
+
+.reveal-modal, .reveal-modal-bg {
+    position: fixed;
 }
