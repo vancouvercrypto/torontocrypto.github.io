@@ -1,3 +1,3 @@
 torontocrypto.github.io
 =======================
-Hackers stumbling over web design "3
+Hackers stumbling over web design :3
