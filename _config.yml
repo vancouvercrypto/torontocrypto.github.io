@@ -1,10 +1,10 @@
 # Site settings
 title: Toronto Crypto
 email: info@torontocrypto.org
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   Home of the Toronto CryptoParty, a social movement to reclaim digital privacy.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://torontocrypto.org" # the base hostname & protocol for your site
+url: "https://torontocrypto.org"
+baseurl: ""
 twitter_username: TorontoCrypto
 github_username: torontocrypto
 

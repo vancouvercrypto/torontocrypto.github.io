@@ -1,0 +1,49 @@
+<div data-reveal class="reveal-modal" id="ircModal">
+  <h3>Join our IRC Chatroom</h3>
+  <p>Have questions about CryptoParty or privacy tools? Or just want to chat? Jump on our IRC. Our instructors and organizers hang out there daily.</p>
+  <ul>
+    <li><b>Channel</b>: #torontocrypto</li>
+    <li><b>Server</b>: http://irc.oftc.net</li>
+    <li><b>Port</b>: 6667 (+6697 for SSL is recommended!)</li>
+  </ul>
+  <p>
+    Never used IRC before? All you need to do is download an <a href="http://www.irchelp.org/irchelp/clients/">IRC client</a>. Check out this <a href="http://www.irchelp.org/irchelp/new2irc.html">how-to guide</a> for more information on using IRC.
+  </p>
+  <a class="close-reveal-modal">×</a>
+</div>
+
+<div data-reveal class="reveal-modal" id="contactModal">
+  <h3>Contact TorontoCrypto</h3>
+  <p>Drop us a line and one of our organizers will get back to you. Or, if you prefer email, <a href="mailto:info@torontocrypto.org">info@torontocrypto.org</a>.</p>
+  <hr>
+
+  <form method="post" action="thanks/contact" name="contact"><input type="hidden" value="contact" name="form-name">
+    <div class="row">
+      <div class="large-12 columns">
+        <label>Your Name
+          <input type="text" placeholder="Your name" name="name">
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-4 columns">
+        <label>Your Email
+          <input type="text" placeholder="your@email.com" name="email">
+        </label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <label>Message
+          <textarea rows="4" placeholder="Hi, ..." name="message"></textarea>
+        </label>
+
+      </div>
+    </div>
+    <hr>
+    <input type="submit" value="Send" class="button primary radius">
+    <a data-reveal-id="contactModal" class="button radius secondary" href="#">Cancel</a>
+  </form>
+
+  <a class="close-reveal-modal">×</a>
+</div>

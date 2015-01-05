@@ -1,35 +1,39 @@
 ---
 layout: default
-permalink: /
+permalink: /cryptoparty/
 ---
 
-<section class="odd" id="headline">
+<section id="headline" class="cryptoparty">
     <div class="row">
         <div class="large-2 columns">&nbsp;</div>
         <div class="small-12 large-8 columns">
             <h1>toronto <strong>#cryptoparty</strong></h1>
-
-            <p>A social movement to reclaim digital privacy.</p>
+            <h3>A social movement to reclaim digital privacy.</h3>
 
             <h4>Latest Event: November 23, 2014</h4>
-
-            <p><a href="#" class="goto" data-goto="event">Learn More</a></p>
+            <a href="/blog/2014/11/24/thanks-for-a-great-cryptoparty!.html">Learn More</a>
         </div>
         <div class="large-2 columns">&nbsp;</div>
     </div>
 </section>
 
-{% for post in site.categories.front reversed %}
-
-<section class="" id="{{ post.anchor }}">
+<section id="{{ post.anchor }}">
     <div class="row">
         <div class="large-2 columns">&nbsp;</div>
         <div class="small-12 large-8 columns">
-            <h2>{{ post.title }}</h2>
-            {{ post.content }}
+
+            {% for post in site.categories.front reversed %}
+
+            <article>
+                <header>
+                    <h2>{{ post.title }}</h2>
+                </header>
+                {{ post.content }}
+            </article>
+
+            {% endfor %}
+
         </div>
         <div class="large-2 columns">&nbsp;</div>
     </div>
 </section>
-
-{% endfor %}

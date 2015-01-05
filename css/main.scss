@@ -8,27 +8,11 @@
 @import "foundation-icons";
 
 
-$header-font-weight-bold: 800;
-$header-font-weight-normal: 200;
-
-
-$bright-blue: #008cba;
-
-
 
 // generics
 
 body.f-topbar-fixed {
     padding-top: 0;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: $font-family-sans-serif;
-}
-
-ul, ol {
-    margin: 0;
-    padding: 0;
 }
 
 a {
@@ -58,7 +42,19 @@ a {
 }
 
 .content section h2 {
-    font-weight: $header-font-weight-bold;
+    font-weight: bold;
+}
+
+.content section h2 a {
+    color: $body-font-color;
+}
+
+article {
+    margin-bottom: 3rem;
+}
+
+article header {
+    margin-bottom: 1.5rem;
 }
 
 footer {
@@ -70,14 +66,13 @@ footer {
 footer h3 {
     color: #777;
     font-size: 1.2rem;
-    font-weight: $header-font-weight-bold;
+    font-weight: bold;
     margin-bottom: 20px;
 }
 
 footer li a {
     color: #333;
     font-size: 1rem;
-    font-weight: $header-font-weight-bold;
 }
 
 .reveal-modal, .reveal-modal-bg {
@@ -89,35 +84,33 @@ footer li a {
 // specific content
 
 #headline {
-    padding: 170px 0 120px;
+    padding-top: 170px;
+    min-height: 560px;
     background:
         linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%),
-        url('/img/banner-laptop.jpg') repeat 50% 50%;
+        url('/img/banner-laptop.jpg') no-repeat 50% 50%,
+        $jet;
     background-size: cover;
-    color: #fff;
     text-align: center;
 }
 
-#headline h1 {
-    font-weight: $header-font-weight-normal;
-    font-size: 1.75rem;
-    margin: 0;
+#headline.cryptoparty {
+    background:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%),
+        url('/img/banner-cryptoparty.jpg') no-repeat 50% 50%,
+        $jet;
 }
 
-#headline h1 strong {
-    font-weight: $header-font-weight-bold;
+#headline * {
+    color: #fff !important;
 }
 
 #headline h4 {
     margin: 5rem 0 0;
 }
 
-#headline p {
-    margin: 0;
-    font-family: $font-family-sans-serif;
-}
-
 #headline a {
+    color: $primary-color !important;
     background: rgba(0, 0, 0, 0.75);
     padding: 0 0.25rem;
 }

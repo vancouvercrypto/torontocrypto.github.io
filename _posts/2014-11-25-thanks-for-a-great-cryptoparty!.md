@@ -1,10 +1,8 @@
 ---
 title: Thanks for a great CryptoParty!
 date: 2014-11-24 21:30UTC
-tags:
-category: homepage
-homepage_rank: 3
-layout: page
+category: blog
+layout: post
 author: darknetj
 ---
 Thanks for a great CryptoParty!
