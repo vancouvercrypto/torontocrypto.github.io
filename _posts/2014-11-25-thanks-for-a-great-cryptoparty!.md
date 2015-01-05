@@ -12,7 +12,7 @@ most recent CryptoParty at Hacklab Toronto and
 we couldn't have been more pleased at how it
 turned out! 
 
-The following topics were covered:
+The slides can be downloaded here:
 
 * [Big Data: Online Marketing and how it tracks you](../files/Toronto_Cryptoparty_Big_Data.pdf)
 * [Using the Tor Browser Bundle](../files/Toronto_Cryptoparty_Tor_Browser.pdf)
