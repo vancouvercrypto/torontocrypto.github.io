@@ -3,7 +3,8 @@ title: I2P meetup and CTA
 date: 2014-12-27 02:41UTC
 category: blog
 layout: post
-author: [j](www.twitter.com/darknetj)
+author: j
+author_twitter: darknetj
 ---
 #I2P meetup and call to action
 
