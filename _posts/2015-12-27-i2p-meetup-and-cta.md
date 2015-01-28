@@ -1,6 +1,6 @@
 ---
 title: I2P meetup and CTA
-date: 2014-12-27 02:41 UTC
+date: 2014-12-27 02:41UTC
 category: blog
 layout: post
 author: [j](http://www.twitter.com/darknetj)
