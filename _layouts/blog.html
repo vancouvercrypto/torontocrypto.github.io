@@ -22,7 +22,7 @@ layout: default
 			<article>
 			    <header>
 			        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-			        <h6 class="subheader">Posted by {{ post.author }} on {{ post.date | date: '%b %-d, %Y' }}</h6>
+			        <h6 class="subheader">Posted by: <a href="https://www.twitter.com/{{ post.author_twitter }}">{{ post.author }}</a> on {{ post.date | date: '%b %-d, %Y' }}</h6>
 			    </header>
 			    {{ post.content }}
 			</article>

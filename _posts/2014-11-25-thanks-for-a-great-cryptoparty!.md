@@ -3,7 +3,8 @@ title: Thanks for a great CryptoParty!
 date: 2014-11-24 21:30UTC
 category: blog
 layout: post
-author: [j](www.twitter.com/darknetj)
+author: j
+author_twitter: darknetj
 ---
 Thanks for a great CryptoParty!
 

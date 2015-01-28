@@ -3,7 +3,8 @@ title: Toronto Crypto documents
 date: 2014-12-27 02:31UTC
 category: blog
 layout: post
-author: [j](www.twitter.com/darknetj)
+author: j
+author_twitter: darknetj
 ---
 White papers and research documents online
 
