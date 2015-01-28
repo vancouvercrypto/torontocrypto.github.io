@@ -1,12 +1,11 @@
 ---
-title: Toronto Crypto documents
+title: White papers and research documents online
 date: 2014-12-27 02:31UTC
 category: blog
 layout: post
 author: j
 author_twitter: darknetj
 ---
-White papers and research documents online
 
 We're in the process of assembling our works
 to write up better technical documentation
@@ -15,7 +14,3 @@ older works can be found here:
 
 * [Toronto Crypto's Secure Browsing Guide](../files/torontocrypto_secure_browsing_guide.pdf)
 * [CryptoParty's Crypto Handbook (2014)](../files/cryptoparty_handbook.pdf)
-
-These will also exist in our new [Media section]
-(/media). Stay tuned for further additions!
-

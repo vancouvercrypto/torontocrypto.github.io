@@ -6,7 +6,6 @@ layout: post
 author: j
 author_twitter: darknetj
 ---
-#I2P meetup and call to action
 
 We're very excited to announce that Toronto Crypto 
 will be closely working with the I2P team in expanding
@@ -25,4 +24,3 @@ you're interested in getting involved, join us on IRC.
 
 * [Download I2P](http://geti2p.net/en/download)
 * [I2P on IRC](http://www.eepsite.com/Content/HowTo/Setup_XChat_I2P.htm)
-
