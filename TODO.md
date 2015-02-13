@@ -2,7 +2,8 @@ Additions
 =====
 
 * Content
-- 3rd page for About Us
+- Header for Media/About Us
+- Written assets for About Us
 
 * Images
 - Pictures are located in files/pictures_2311 [*]
