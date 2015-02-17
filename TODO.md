@@ -17,3 +17,4 @@ Issues
 ======
 * Mailing list (link is currently mailto)
 * Cryptoparty image is not responsive
+* blank.gif in /downloads is broken
