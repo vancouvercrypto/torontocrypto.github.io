@@ -7,7 +7,7 @@ CryptoParty is about empowering everyone to take control over their own digital 
 
 CryptoParty represents a movement to demystify the jargon and level the playing field
 between those who understand the necessity of personal security and non-technical users.
-The difficulty in presenting this paradigm is the divide between security and convienence
+The difficulty in presenting this paradigm is the divide between security and convenience
 as non-technical users would be confused by highly jargonized papers and
 inefficient application documentation.
 
