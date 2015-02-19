@@ -2,11 +2,11 @@ Website TODO
 =====
 
 * Content
-- 2nd page for (Media/Downloads)
+- add Downloads to media page/seperate page
 - 3rd page for About Us
 * Images
+- create a flickr group for torontocrypto & change media page to use that
 - Pictures are located in files/pictures_2311 [*]
-- Find best way to embed pictures in site
 * Mailing List
 - Fix mailing list issues in website
 * Graphics 
