@@ -1,4 +1,40 @@
 ---
-layout: downloads
+layout: default
 permalink: /downloads/
 ---
+
+<section id="downloads" class="top">
+    <div class="row">
+        <div class="large-12 columns">
+            <h2>Index of /downloads</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="large-1 columns">&nbsp;</div>
+        <div class="large-5 columns"><strong>Name</strong></div>
+        <div class="large-2 columns"><strong>Last modified</strong></div>
+        <div class="large-1 columns text-right"><strong>Size</strong></div>
+        <div class="large-3 columns"><strong>Description</strong></div>
+    </div>
+    <div class="row">
+        <div class="large-1 columns"><img src="/img/icons/back.gif" alt="[PARENTDIR]"></div>
+        <div class="large-5 columns"><a href="/">Parent Directory</a></div>
+        <div class="large-2 columns">&nbsp;</div>
+        <div class="large-1 columns text-right">-</div>
+        <div class="large-3 columns">&nbsp;</div>
+    </div>
+    {% for file in site.categories.files %}
+    <div class="row">
+        <div class="large-1 columns"><img src="/img/icons/{{ file.icon }}.gif" alt="[FILE]"></div>
+        <div class="large-5 columns"><a href="/files/{{ file.name }}" target="_blank">{{ file.name }}</a></div>
+        <div class="large-2 columns">{{ file.date | date: "%F" }}</div>
+        <div class="large-1 columns text-right">{{ file.size }}</div>
+        <div class="large-3 columns">{{ file.title }}</div>
+    </div>
+    {% endfor %}
+    <div class="row">
+        <div class="large-12 columns">
+            <address>Apache/2.4.1 (Ubuntu) Server at 217.23.11.33 Port 80</address>
+        </div>
+    </div>
+</section>

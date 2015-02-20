@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-category: front
+category: cryptoparty
 anchor: code
 ---
 The following is a list of rules and advice given out to CryptoParty members

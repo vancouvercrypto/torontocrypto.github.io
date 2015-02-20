@@ -1,6 +1,6 @@
 ---
 title: How it works
-category: front
+category: cryptoparty
 anchor: how
 ---
 Talks regarding the topics above will range from 10-20 minutes each,

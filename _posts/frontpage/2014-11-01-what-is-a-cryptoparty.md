@@ -1,6 +1,6 @@
 ---
 title: What is a CryptoParty?
-category: front
+category: cryptoparty
 anchor: about
 ---
 CryptoParty is about empowering everyone to take control over their own digital privacy.
