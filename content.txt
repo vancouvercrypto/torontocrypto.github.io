@@ -13,8 +13,14 @@ https://en.wikipedia.org/wiki/Operations_security
 
 We believe in OPSEC.
 
-TorontoCrypto is a non-partisan collective created with the purpose
-of spreading privacy awareness. We collaborate with people from all walks of life from technical to the artistic. Our interests include Encryption tools, containers/Operating Systems/Full Disk Encryption and their respective pros and cons. We also cover legal scenarios, especially those revolving around the controversial Canadian Key Disclosure law. We look at various methods of secure data transmission across multiple mediums (TLS, VPN, SSL), public key policy, darknet/darkwebs, CryptoCurrency and keeping your social media footprint to a minimum.
+<p>First formed in 2012 in response to the growing concerns of privacy invasion and general security misconfigurations, Toronto Crypto initiated as an advocacy to bridge gaps in communication between parties of various skill-sets.</p>
+          
+<p>We all have seen, too often, just how progressive privacy and information security debates can degrade in to a rhetorical political debate. Thus, Toronto Crypto was created as a non-partisan collective aiming to connect intellectuals from any, or none, of the political spectrum.</p>
+
+  with the purpose of spreading privacy awareness. We collaborate with people from all walks of life, technical to artistic, activist to political. s, containers/Operating Systems/Full Disk Encryption and their respective pros and cons. We cover legal scenarios, especially those revolving around the controversial Canadian Key Disclosure law and bills related to national security.
+        
+
+Our interests include Encryption tools, containers/Operating Systems/Full Disk Encryption and their respective pros and cons. We also cover legal scenarios, especially those revolving around the controversial Canadian Key Disclosure law. We look at various methods of secure data transmission across multiple mediums (TLS, VPN, SSL), public key policy, darknet/darkwebs, CryptoCurrency and keeping your social media footprint to a minimum.
 
 We host CryptoParty events with the aim to act as an event for training and assisting everyday users in utilizing powerful technology to enhance their own security.
 
