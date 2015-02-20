@@ -53,6 +53,13 @@ a {
         $jet;
 }
 
+#headline.about {
+    background:
+        linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%),
+        url('/img/banner-about.jpg') no-repeat 50% 50%,
+        $jet;
+}
+
 #headline * {
     color: #fff !important;
 }
