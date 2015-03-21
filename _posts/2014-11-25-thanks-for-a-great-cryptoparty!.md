@@ -11,7 +11,7 @@ Thanks for a great CryptoParty!
 Sunday, November 23rd we hosted our
 most recent CryptoParty at Hacklab Toronto and
 we couldn't have been more pleased at how it
-turned out! 
+turned out!
 
 The slides can be downloaded here:
 

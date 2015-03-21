@@ -1,8 +1,7 @@
 # Site settings
 title: Toronto Crypto
 email: info@torontocrypto.org
-description: >
-  Home of the Toronto CryptoParty, a social movement to reclaim digital privacy.
+description: Toronto's Privacy Advocacy
 url: "https://torontocrypto.org"
 baseurl: ""
 twitter_username: TorontoCrypto
