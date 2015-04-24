@@ -4,7 +4,6 @@ date: 2015-03-09 03:32UTC
 category: blog
 layout: post
 author: j
-author_twitter: darknetj
 ---
 
 A good portion of my last week was figuring out

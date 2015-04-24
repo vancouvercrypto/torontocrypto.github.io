@@ -4,13 +4,18 @@ layout: default
 <section id="blog-post">
     <div class="row">
         <div class="small-12 large-8 large-offset-2 columns">
+
+            {% assign author = site.data.authors[page.author] %}
             <article>
                  <header>
                     <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-                    <h6 class="subheader">Posted by {{ page.author }} on {{ page.date | date: '%b %-d, %Y' }}			</h6>
+                    <h6 class="subheader">Posted by <a href="https://www.twitter.com/{{ author.twitter }}" target="_blank"><img class="author-icon" src="/img/{{ author.icon }}"> {{ author.name }}</a> on {{ page.date | date: '%b %-d, %Y' }}</h6>
                 </header>
                 {{ content }}
             </article>
+
+            <a href="/blog">← Back to the blog</a>
+
         </div>
     </div>
 </section>

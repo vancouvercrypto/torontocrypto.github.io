@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /
 ---
 
 <section id="headline">
@@ -18,9 +18,11 @@ permalink: /blog/
     <div class="row">
         <div class="large-8 columns">
 
-            {% for post in site.categories.blog %}
+            {% for post in site.categories.blog limit:2 %}
             {% include post.html %}
             {% endfor %}
+
+            <a href="/blog">See all blog posts →</a>
 
         </div>
         <div class="large-4 columns">

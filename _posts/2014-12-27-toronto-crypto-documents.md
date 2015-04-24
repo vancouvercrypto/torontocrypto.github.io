@@ -4,7 +4,6 @@ date: 2014-12-27 02:31UTC
 category: blog
 layout: post
 author: j
-author_twitter: darknetj
 ---
 
 We're in the process of assembling our works

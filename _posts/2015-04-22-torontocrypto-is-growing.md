@@ -4,7 +4,6 @@ date: 2015-04-22 21:42UTC
 category: blog
 layout: post
 author: j
-author_twitter: darknetj
 ---
 
 What a start to the year already! Some of us are barely able to rest between

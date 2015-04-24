@@ -4,7 +4,6 @@ date: 2015-03-21 15:41UTC
 category: blog
 layout: post
 author: j
-author_twitter: darknetj
 ---
 
 Toronto Crypto is very pleased to announce that we will
