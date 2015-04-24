@@ -1,8 +1,0 @@
-#!/bin/bash
-
-BUILD_FOLDER=_site
-mkdir -p $BUILD_FOLDER
-bundle exec jekyll build --destination $BUILD_FOLDER
-bitballoon deploy $BUILD_FOLDER
-
-echo "> Deploy completed!"
