@@ -12,5 +12,5 @@ to write up better technical documentation
 for encrypting communications. Some of our
 older works can be found here:
 
-* [Toronto Crypto's Secure Browsing Guide](../files/torontocrypto_secure_browsing_guide.pdf)
-* [CryptoParty's Crypto Handbook (2014)](../files/cryptoparty_handbook.pdf)
+* [Toronto Crypto's Secure Browsing Guide](https://torontocrypto.org/files/torontocrypto_secure_browsing_guide.pdf)
+* [CryptoParty's Crypto Handbook (2014)](https://torontocrypto.org/files/cryptoparty_handbook.pdf)

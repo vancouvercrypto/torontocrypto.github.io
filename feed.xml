@@ -7,7 +7,7 @@ layout: null
     <title>{{ site.title | xml_escape }}</title>
     <image>
      <url>https://torontocrypto.org/img/rss_logo.png</url>
-     <title>TorontoCrypto.org</title>
+     <title>Toronto Crypto</title>
      <link>https://torontocrypto.org/</link>
      <width>144</width>
      <height>144</height>
@@ -18,7 +18,6 @@ layout: null
     <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>

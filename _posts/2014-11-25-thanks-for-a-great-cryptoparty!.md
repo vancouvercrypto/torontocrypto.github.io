@@ -15,10 +15,10 @@ turned out!
 
 The slides can be downloaded here:
 
-* [Big Data: Online Marketing and how it tracks you](../files/Toronto_Cryptoparty_Big_Data.pdf)
-* [Using the Tor Browser Bundle](../files/Toronto_Cryptoparty_Tor_Browser.pdf)
-* [Mobile Security and Privacy](../files/Toronto_Cryptoparty_Mobile_Privacy.pdf)
-* [TLS: Today's Lite Security](../files/Toronto_Cryptoparty_TLS_TodaysLiteSecurity.pdf)
+* [Big Data: Online Marketing and how it tracks you](https://torontocrypto.org/files/Toronto_Cryptoparty_Big_Data.pdf)
+* [Using the Tor Browser Bundle](https://torontocrypto.org/files/Toronto_Cryptoparty_Tor_Browser.pdf)
+* [Mobile Security and Privacy](https://torontocrypto.org/files/Toronto_Cryptoparty_Mobile_Privacy.pdf)
+* [TLS: Today's Lite Security](https://torontocrypto.org/files/Toronto_Cryptoparty_TLS_TodaysLiteSecurity.pdf)
 
 Thanks to everyone who made it out. We absolutely
 appreciate all the feedback you gave and if
