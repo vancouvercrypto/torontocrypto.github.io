@@ -18,7 +18,7 @@ out this article on [RSS and how to amalgamate your news](http://webtrends.about
 * [TorontoCrypto's Blog Posts](https://torontocrypto.org/feed.xml)
 
 We've also added the [CCLA](http://ccla.org/), [OpenMedia](https://openmedia.ca/)
-and [Hacklab](https://hacklab.to/?referer=hellojustinyousmell^_^) streams
+and [Hacklab](https://hacklab.to/) streams
 to our Twitter as we respect these organizations immensely.
 
 Bill C-51 pending, this Summer already has plenty of great things in store
