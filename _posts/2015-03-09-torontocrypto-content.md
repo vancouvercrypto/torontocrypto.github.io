@@ -8,7 +8,7 @@ author: j
 
 A good portion of my last week was figuring out
 how to best deliver TorontoCrypto's content. Thankfully, having finally
-sat down and spent some time with [RSS](http://en.wikipedia.org/wiki/RSS),
+sat down and spent some time with [RSS](https://en.wikipedia.org/wiki/RSS),
 we now have two streams of content to add to your RSS stream or reader. If
 you are new to the idea of streamlining media, check
 out this article on [RSS and how to amalgamate your news](http://webtrends.about.com/od/revie2/tp/Rss-Aggregator-Tools-Combine-Rss-Feeds.htm).
