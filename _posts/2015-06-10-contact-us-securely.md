@@ -6,7 +6,7 @@ layout: post
 author: j
 ---
 
-Thanks to our friends at [CryptoPartyATL](https://cryptopartyal.org/) reaching
+Thanks to our friends at [CryptoPartyAL](https://cryptopartyal.org/) reaching
 out I was finally acquainted with [Encrypt.To](https://encrypt.to), a web-mail service
 that uses a web contact form and publicly available PGP key. This service allows users with
 no prior knowledge of PGP to send encrypted messages to organizations/other users who have keys
