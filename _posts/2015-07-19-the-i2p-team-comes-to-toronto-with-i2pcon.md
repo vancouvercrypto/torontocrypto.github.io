@@ -22,4 +22,4 @@ spot at the event](http://www.eventbrite.ca/e/i2p-meetup-tickets-17773984466)! S
 We'll see you at the conference. Remember to donate
 to Hacklab and I2P while there!
 
-![I2PCon](https://torontocrypto.org/img/i2pcon.jpg)
+![I2PCon](https://torontocrypto.org/img/i2p_con.jpg)
