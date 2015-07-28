@@ -10,5 +10,8 @@ github_username: torontocrypto
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-sitemap
+
 exclude:
     - vendor
