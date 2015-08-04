@@ -1,0 +1,3 @@
+User-agent: * 
+Disallow: 
+Sitemap: https://torontocrypto.org/sitemap.xml
