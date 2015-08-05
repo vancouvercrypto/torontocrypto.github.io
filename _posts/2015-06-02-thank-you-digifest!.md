@@ -3,6 +3,8 @@ title: Thank You, Digifest!
 date: 2015-06-04 16:25UTC
 category: blog
 layout: post
+description: TorontoCrypto hosted a CryptoParty at Digifest
+keywords: CryptoParty, Digifest, toronto, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 

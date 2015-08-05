@@ -3,6 +3,8 @@ title: I2P meetup and CTA
 date: 2014-12-27 02:41UTC
 category: blog
 layout: post
+description: I2P is coming to Toronto
+keywords: i2pcon, borgil, toronto, torontocrypto, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 

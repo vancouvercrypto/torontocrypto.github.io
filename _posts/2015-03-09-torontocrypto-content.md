@@ -3,6 +3,8 @@ title: TorontoCrypto Content && RSS Feeds
 date: 2015-03-09 03:32UTC
 category: blog
 layout: post
+description: TorontoCrypto updates it's RSS feeds
+keywords: rss, twitter, CryptoParty, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 

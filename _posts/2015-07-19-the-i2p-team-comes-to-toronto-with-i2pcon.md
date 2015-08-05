@@ -3,6 +3,8 @@ title: The I2P team comes to Toronto with I2PCon
 date: 2015-07-19 2:23UTC
 category: blog
 layout: post
+description: I2PCon is coming to Toronto
+keywords: i2pcon, borgil, CryptoParty, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 

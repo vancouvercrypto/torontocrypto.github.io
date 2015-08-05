@@ -3,6 +3,8 @@ title: Toronto Crypto Is Growing
 date: 2015-04-22 21:42UTC
 category: blog
 layout: post
+description: TorontoCrypto needs your help!
+keywords: recruit, volunteer, CryptoParty, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 

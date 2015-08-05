@@ -3,6 +3,8 @@ title: Contact Us Securely
 date: 2015-06-20 14:25UTC
 category: blog
 layout: post
+description: Contact TorontoCrypto securely through Encrypt.TO
+keywords: encrypt.to, public key, CryptoParty, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 
