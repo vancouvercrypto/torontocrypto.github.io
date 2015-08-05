@@ -3,6 +3,8 @@ title: Cryptoparty at Digifest
 date: 2015-03-21 15:41UTC
 category: blog
 layout: post
+description: TorontoCrypto hosted a CryptoParty at Digifest
+keywords: CryptoParty, Digifest, toronto, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 

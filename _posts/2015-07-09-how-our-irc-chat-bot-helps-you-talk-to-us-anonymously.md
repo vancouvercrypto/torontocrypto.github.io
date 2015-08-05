@@ -3,6 +3,8 @@ title: How our IRC chat bot helps you talk to us anonymously
 date: 2015-07-09 11:00:00 EDT
 category: blog
 layout: post
+description: TorontoCrypto created a IRC bot to communicate over I2P
+keywords: IRC, nodejs, toronto, PGP, encryption, hacking, security, privacy, i2p, tor
 author: m
 ---
 

@@ -3,6 +3,8 @@ title: Thanks for a great CryptoParty!
 date: 2014-11-24 21:30UTC
 category: blog
 layout: post
+description: TorontoCrypto hosted a CryptoParty at hacklab.to
+keywords: CryptoParty, hacklab, toronto, PGP, encryption, hacking, security, privacy, i2p, tor
 author: j
 ---
 Thanks for a great CryptoParty!
