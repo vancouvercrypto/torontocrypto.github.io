@@ -24,15 +24,18 @@ title: Downloads
         <div class="large-1 columns text-right">-</div>
         <div class="large-3 columns">&nbsp;</div>
     </div>
-    {% for file in site.categories.files %}
+    {% for file in site.static_files %}
+    {% if file.path contains 'files/' %}
+        {% assign fname = file.path | remove_first:"files/" | remove_first:"/" %}
+        {% assign fdescription = fname | replace:'_',' ' %}
     <div class="row">
-        <div class="large-1 columns"><img src="/img/icons/{{ file.icon }}.gif" alt="[FILE]"></div>
-        <div class="large-5 columns"><a href="/files/{{ file.name }}" target="_blank">{{ file.name }}</a></div>
-        <div class="large-2 columns">{{ file.date | date: "%F" }}</div>
-        <div class="large-1 columns text-right">{{ file.size }}</div>
-        <div class="large-3 columns">{{ file.title }}</div>
+        <div class="large-1 columns"><img src="/img/icons/layout.gif" alt="[FILE]"></div>
+        <div class="large-5 columns"><a href="/files/{{ file.name }}" target="_blank">{{ fname }}</a></div>
+        <div class="large-2 columns">{{ file.modified_time | date: "%F" }}</div>
+        <div class="large-1 columns text-right">?K</div>
+        <div class="large-3 columns">{{ fdescription | replace:file.extname,'' }}</div>
     </div>
-    {% endfor %}
+    {% endif %}{% endfor %}
     <div class="row">
         <div class="large-12 columns">
             <address>Apache/2.4.1 (Ubuntu) Server at 217.23.11.33 Port 80</address>
