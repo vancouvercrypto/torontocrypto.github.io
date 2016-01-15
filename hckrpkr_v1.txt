@@ -33,7 +33,7 @@ procedures utilized by potentially Negative Operators ('NO')
 who may pose a threat to the hacker collective. These
 NO's could include: intelligence agencies, rogue hackers,
 corporate espionage, hostile law enforcement and more (this
-is an exhaustive list).
+is not an exhaustive list).
 
 Remember: The general rule of OPSEC is silence is security. Gossip
 and loosed-lip personnel are easy prey for social engineering
